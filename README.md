@@ -1,2 +1,3 @@
-# BANCO-DE-DADOS-MYSQL
- Estudando MySQL
+# BANCO DE DADOS MYSQL
+ 
+ Aprendendo MySQL no Curso em vídeo!
