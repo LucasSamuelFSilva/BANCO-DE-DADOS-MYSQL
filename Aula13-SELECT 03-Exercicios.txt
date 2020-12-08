@@ -1,0 +1,12 @@
+Exercicios Aula 13!
+
+1) Uma lista com as profissões dos gafanhotos e seus respctivos quantitativos.
+
+2) Quantos gafanhotos homens e mulheres naceram após 01/Jan/2005?
+
+3) Uma lista com os gafanhotos que naceram fora do Brasil, mostrando o pais de origem e total de pessoas
+nacidas lá. Somente os paises que tiverem mais de 3 gafanhotos com nacionalidade lá.
+
+4) Uma lista agrupada pela altura dos gafanhotos, mostrando quantas pessoas pesam mais de 100kg e que estão
+acima da média de altura de todos cadastrados.
+
